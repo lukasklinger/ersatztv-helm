@@ -3,6 +3,17 @@ entries:
   ersatztv:
   - apiVersion: v2
     appVersion: v0.8.2
+    created: "2023-10-21T21:09:25.792674895Z"
+    description: A Helm chart for ErsatzTV - Stream custom live channels using your
+      own media
+    digest: 733a3e5f2236ab2eefd3cd52f4d397821419a469a3ca6dcd273c9312c85642ba
+    name: ersatztv
+    type: application
+    urls:
+    - https://github.com/lukasklinger/ersatztv-helm/releases/download/ersatztv-0.1.3/ersatztv-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: v0.8.2
     created: "2023-10-21T21:04:17.624334282Z"
     description: A Helm chart for ErsatzTV - Stream custom live channels using your
       own media
@@ -34,4 +45,4 @@ entries:
     urls:
     - https://github.com/lukasklinger/ersatztv-helm/releases/download/ersatztv-0.1.0/ersatztv-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-21T21:04:17.624342982Z"
+generated: "2023-10-21T21:09:25.792687695Z"
